@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There, I am Amandeep Singh, a Full Stack Developer who also knows Most of the JAVA tricks as well.
 
 <!--
 **Aman-0-singh/Aman-0-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
