@@ -1,4 +1,5 @@
 ## Hi There, I am Amandeep Singh, a Full Stack Developer who also knows Most of the JAVA tricks as well.
+[![Amandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-0-singh)](https://github.com/Aman-0-singh/github-readme-stats)
 
 <!--
 **Aman-0-singh/Aman-0-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
